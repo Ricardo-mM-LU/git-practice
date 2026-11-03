@@ -7,4 +7,7 @@ result = allocate_task("robot_1","task_1")
 print(result)
 print("Git version control test")
 print("this is dev branch")
-strategy = "greedy"
+
+
+strategy = "reinforcement_learning"
+

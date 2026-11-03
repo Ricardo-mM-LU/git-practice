@@ -10,5 +10,4 @@ print("this is dev branch")
 
 
 strategy = "reinforcement_learning"
-strategy = "qmix"
 
